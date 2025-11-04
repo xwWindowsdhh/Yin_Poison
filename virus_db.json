@@ -1,0 +1,19 @@
+{
+    "description": "病毒库文件",
+    "viruses": [
+        {
+            "name": "Riskware.DOS.EICAR.1",
+            "hash": "3395856ce81f2b7382dee72602f798b642f14140",
+            "engine": "Red",
+            "introduction": "EICAR 测试文件，无危害",
+            "solve": "无需处理"
+        },
+        {
+            "name": "Riskware.DOS.EICAR.1",
+            "code": "EICAR-STANDARD-ANTIVIRUS-TEST-FILE!",
+            "engine": "yin",
+            "introduction": "EICAR 测试文件，无危害",
+            "solve": "无需处理"
+        }
+    ]
+}
